@@ -1,0 +1,59 @@
+header {
+    background-color: #5ce1e6;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
+
+h1 {
+    color: #8607E0;
+}
+
+#t1 {
+    background-color: #5ce1e6;
+}
+
+#divTitre {
+    justify-content: center;
+    flex-direction: column;
+}
+
+#boutonConnexion,
+#boutonInscription,
+#button-addon2 {
+    color: #5ce1e6;
+    border-color: #8607E0;
+}
+
+#boutonInscription {
+    color: #8607E0;
+}
+
+#boutonConnexion,
+#boutonInscription:hover,
+#button-addon2 {
+    background-color: #8607E0;
+}
+
+#nameENM {
+    color: #8607E0;
+}
+
+#gauche {
+    background-color: #F2C155;
+}
+
+#droite {
+    background-color: #E4FCD4;
+}
+
+#enm {
+    background-color: #DB4287;
+}
+
+#avis {
+    background-color: #8607E0;
+}
+
+#avis h2 {
+    color: #5ce1e6;
+}
